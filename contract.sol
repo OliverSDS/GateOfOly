@@ -1,6 +1,6 @@
 pragma solidity ^0.8.0;
 
-contract GateOfOlympus {
+contract GateOfOly {
    uint256 jackpot;
    uint256 winnings;
    uint256 randomNumber;
